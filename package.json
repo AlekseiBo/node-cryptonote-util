@@ -2,10 +2,7 @@
   "name": "cryptonote-util",
   "version": "0.0.1",
   "main": "cryptonote",
-  "author": {
-    "name": "LucasJones",
-    "email": "lucasjonesdev@hotmail.co.uk"
-  },
+  "author": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/AlekseiBo/node-cryptonote-util.git"
